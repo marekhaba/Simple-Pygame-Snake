@@ -1,2 +1,2 @@
 # Simple-Pygame-Snake
-Simple project
+Just a simple Snake what do you expect.
